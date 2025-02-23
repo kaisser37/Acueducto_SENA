@@ -11,4 +11,4 @@
 **una vez en el entorno instalar todo lo necesario con el siguiente comando:**
 - pip install -r requerimientos.txt
 
-De esta manera se instalan todas las dependencias instaladas hasta el momento.
+De esta manera se instalan todas las dependencias necesarias.
